@@ -1,0 +1,38 @@
+nav{ 
+    display: flex;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    justify-content: space-between;
+}
+nav li{
+    list-style-type: none;
+    margin-right: 50px;
+    
+}
+nav a{
+    text-decoration: none;
+}
+.nav-title{
+
+    color:#181818;
+font-family: Open Sans;
+font-size: 45px;
+font-weight: 800;
+
+}
+.orange{
+    color: rgb(255, 99, 37);
+}
+.orangeb{
+    
+    color: aliceblue;
+    border-radius: 5px;
+    background-color: #FD6E0A;
+    font-size: 15px;
+    font-weight: 700;
+    height: 64px;
+    width: 150px;
+    padding: 15px,35px; 
+    
+    
+}
